@@ -1,0 +1,21 @@
+Locales['fr'] = {
+
+    ['open'] = "Appuyez sur [~b~E~w~] pour prendre l'ascenseur.",
+    ['name'] = 'Nom :',
+    ['first_point'] = 'Premier Point :',
+	['second_point'] = 'Deuxième Point :',
+    ['create'] = '~g~Créer le teleport :',
+    ['delete'] = '~r~Supprimer',
+    ['first'] = "Vous avez défini ~g~le premier point ~z~!",
+    ['second'] = "Vous avez défini ~g~le deuxième point ~z~!",
+    ['no'] = "~r~Il te reste des points à ajouter",
+    ['no_bis'] = "~r~Entre un nom valide !",
+    ['good_delete'] = "Le point ",
+    ['good_delete_bis'] = " à été ~r~supprimé (reboot)",
+    ['good_create'] = "Le point ",
+    ['good_create_bis'] = " à été ~g~créé~z~ avec succès ",
+    ['create_point'] = "Création de point",
+    ['delete_point'] = "Suppression de point",
+    ['load'] = "Nous avons ",
+    ['load_bis'] = " point(s) de téléportation sur la Map !",
+}
