@@ -4,6 +4,10 @@ game 'gta5'
 
 dependency 'es_extended'
 
+shared_scripts {
+    'config.lua'
+}
+
 client_scripts {
     '@es_extended/locale.lua',
     --dependance rageui--
